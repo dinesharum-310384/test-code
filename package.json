@@ -1,0 +1,17 @@
+{
+    "name": "multi-connector",
+    "version": "1.0.0",
+    "description": "multi conn module",
+    "main": "index.js",
+    "keywords": [
+        "npm",
+        "connectors",
+        "api"
+    ],
+    "author": "dinesh.arumugam",
+    "license": "ISC",
+    "dependencies": {
+        "aws-sdk": "^2.389.0",
+        "https": "^1.0.0"
+    }
+}
