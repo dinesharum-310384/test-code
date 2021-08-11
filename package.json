@@ -1,6 +1,6 @@
 {
     "name": "multi-connector-name",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "multi conn module test module",
     "main": "index.js",
     "keywords": [
