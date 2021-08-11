@@ -1,7 +1,7 @@
 {
     "name": "multi-connector",
-    "version": "1.0.0",
-    "description": "multi conn module",
+    "version": "1.0.1",
+    "description": "multi conn module test module",
     "main": "index.js",
     "keywords": [
         "npm",
